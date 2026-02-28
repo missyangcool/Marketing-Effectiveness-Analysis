@@ -116,7 +116,6 @@ project/
 - Marketing Effectiveness Analysis.md
 - Marketing Effectiveness Analysis.ipynb
 - 营销活动分析与优化策略报告(1).pdf
-- charts
 - requirement.txt
 
 
